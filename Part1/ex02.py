@@ -1,0 +1,2 @@
+text = ("Alice")
+print (text)
